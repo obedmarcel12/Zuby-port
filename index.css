@@ -1101,6 +1101,7 @@ footer .container {
   .Div-Third span {
     display: flex;
     flex-direction: row;
+    margin-left: 10px;
     gap: 3vh;
     margin-top: 50px;
   }
